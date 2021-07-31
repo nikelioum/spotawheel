@@ -16,6 +16,8 @@ https://github.com/nikelioum/spotawheel/tree/master
    php artisan db:seed --class ClientSeeder
 
    php artisan db:seed --class PaymentSeeder
+   
+    php artisan db:seed --class UserSeeder
 
    php artisan:serve
    
