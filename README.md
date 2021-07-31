@@ -26,4 +26,4 @@ https://github.com/nikelioum/spotawheel.git
 
 <img src="https://i.ibb.co/NYRZ9Ws/rsz-screenshot-from-2021-07-31-21-04-41.png" alt="rsz-screenshot-from-2021-07-31-21-04-41" border="0">
 
-<img src="https://i.ibb.co/9h7rSW2/rsz-screenshot-from-2021-07-31-21-04-49.png" alt="rsz-screenshot-from-2021-07-31-21-04-49" border="0">
+<img src="https://i.ibb.co/NY5H0Gj/Screenshot-from-2021-07-31-21-04-49.png" alt="Screenshot-from-2021-07-31-21-04-49" border="0">
