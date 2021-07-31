@@ -18,3 +18,12 @@ https://github.com/nikelioum/spotawheel.git
    php artisan db:seed --class PaymentSeeder
 
    php artisan:serve
+   
+   
+   SCREENSHOTS
+
+   <img src="https://ibb.co/LnS14z1">
+   
+   <img src="https://ibb.co/12c8rRL">
+    
+   <img src="https://ibb.co/DYZRTQk">
