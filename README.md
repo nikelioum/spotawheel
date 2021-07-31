@@ -22,8 +22,8 @@ https://github.com/nikelioum/spotawheel.git
    
    SCREENSHOTS
 
-   <img src="https://ibb.co/LnS14z1">
-   
-   <img src="https://ibb.co/12c8rRL">
-    
-   <img src="https://ibb.co/DYZRTQk">
+<img src="https://i.ibb.co/TmctzBt/rsz-screenshot-from-2021-07-31-21-04-24.png" alt="rsz-screenshot-from-2021-07-31-21-04-24" border="0">
+
+<img src="https://i.ibb.co/NYRZ9Ws/rsz-screenshot-from-2021-07-31-21-04-41.png" alt="rsz-screenshot-from-2021-07-31-21-04-41" border="0">
+
+<img src="https://i.ibb.co/9h7rSW2/rsz-screenshot-from-2021-07-31-21-04-49.png" alt="rsz-screenshot-from-2021-07-31-21-04-49" border="0">
