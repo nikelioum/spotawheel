@@ -5,7 +5,7 @@ This is a demostration project about Spotawheel Devs Team
 
 1. Κατεβάστε από τον παρακάτω σύνδεσμο στο github το project.
 
-https://github.com/nikelioum/spotawheel.git
+https://github.com/nikelioum/spotawheel/tree/master
 
 2. Εκτελέστε τις παρακάτω εντολές
    
